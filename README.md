@@ -1,5 +1,5 @@
 # SettlersResourcesJSv2
-Imperial Settlers Bord Game Resources Checker v2 on JavaScript and Tailwind
+Imperial Settlers: Roll and Write Bord Game Resources Checker v2 on JavaScript and Tailwind
 
 The counter is simplified as much as possible. Removed all unnecessary. Now you can only add and subtract counter values.
 
