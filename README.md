@@ -3,7 +3,7 @@ Imperial Settlers: Roll and Write Bord Game Resources Checker v2 on JavaScript a
 
 The counter is simplified as much as possible. Removed all unnecessary. Now you can only add and subtract counter values.
 
-Site: https://kotbanditsky.github.io/SettlersResourcesJSv2/
+Site: https://kotbanditsky.github.io/js-tailwind-settlers-counter-v2/
 
 Imperial Settlers (https://boardgamegeek.com/boardgame/270836/imperial-settlers-roll-write) - a cool roll and write boardgame highly complicated by counting action points and resources. This online application will correct this misunderstanding and simplify your game, help you concentrate on the gameplay and not on counting your resources.
 
